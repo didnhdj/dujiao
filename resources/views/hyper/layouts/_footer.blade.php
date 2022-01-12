@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-md-6">
             	<div class="footer-links">
-                    Powered by <a href="https://github.com/assimon/dujiaoka">@独角数卡.</a>
+                    Powered by <a href="https://www.sopan.vip">@Sopan</a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -36,7 +36,7 @@
         $("#loading").fadeOut(1000);
     });
 </script>
-<script>console.group("Faka");console.log("Name: 独角数卡");console.log("Github: https://github.com/assimon/dujiaoka");console.groupEnd();</script>
+<script>console.group("Faka");console.log("Name: Sopan卡密");console.log("Github: https://github.com/assimon/dujiaoka");console.groupEnd();</script>
 <script>console.group("Theme");console.log("Name: Hyper Theme");console.log("Author: Bimoes");console.groupEnd();</script>
 </body>
 </html>
